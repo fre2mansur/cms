@@ -1,0 +1,7 @@
+# Files
+config.php
+database.php
+errors.log
+
+# Folders
+vendor/
