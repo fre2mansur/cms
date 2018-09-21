@@ -4,6 +4,7 @@
 	<title>CMS - Default Theme</title>
 </head>
 <body>
-	<h1>Welcome CMS - Default Theme</h1>
+	<h1>Welcome CMS</h1>
+	<p>Default Index</p>
 </body>
 </html>
