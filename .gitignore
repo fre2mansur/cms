@@ -2,6 +2,7 @@
 config.php
 database.php
 errors.log
+composer.lock
 
 # Folders
 vendor/
